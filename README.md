@@ -29,6 +29,7 @@ A simple and dynamic portfolio generator that allows users to input their detail
 1. Run the application:
    ```bash
    npm start  # If using a JavaScript framework
+   # install any other dependencies that you may encountere while running this code
    ```
 2. Open the application in your browser (e.g., `http://localhost:3000`)
 3. Fill in the required details and generate your portfolio
