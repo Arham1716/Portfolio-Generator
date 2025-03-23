@@ -1,5 +1,4 @@
 # Portfolio-Generator
-# Portfolio Generator
 
 A simple and dynamic portfolio generator that allows users to input their details and generate a personalized portfolio page.
 
